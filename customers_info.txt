@@ -1,0 +1,3 @@
+{'user_id': 'james', 'password': 'hehe', 'first name': 'james', 'last name': 'stark', 'address': 'pindi', 'email': 'sd3sd3', 'phone': '32442'}
+{'user_id': 'anshara', 'password': 'aaa', 'first name': 'anshara', 'last name': 'ayaz', 'address': 'karachi', 'email': 'aaaa@gmail.com', 'phone': '23135324'}
+{'user_id': 'ali', 'password': 'ali', 'first name': 'muhammad', 'last name': 'ali', 'address': 'karachi', 'email': 'ali@gmail.com', 'phone': '03181137787'}

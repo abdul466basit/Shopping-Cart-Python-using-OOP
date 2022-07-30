@@ -1,0 +1,16 @@
+zinger burger,250,60
+beef burger,220,22
+pizza fries,200,49
+pizza small,250,85
+pizza medium,400,92
+pizza large,1200,79
+chicken tikka(chest),220,85
+chicken tikka(leg),150,82
+chicken malai boti,280,43
+chicken bihari boti,250,49
+singaporean rice,240,39
+chinese rice,200,39
+chicken sandwich,120,46
+soft drinks (500ml),75,98
+soft drinks (1L),125,97
+soft drinks (1.25ml),150,73

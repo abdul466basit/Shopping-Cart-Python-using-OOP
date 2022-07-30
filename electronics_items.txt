@@ -1,0 +1,15 @@
+hp laptop (10th gen-8/256 GB),175000,18
+hp laptop (10th gen-16/512 GB),220000,19
+dell laptop (9th gen-8/512 GB),120000,33
+dell laptop (9th gen-8/256 GB),100000,36
+samsung galaxy S22 ultra,250000,28
+samsung galaxy note22 ultra,230000,19
+iphone 13 pro max,270000,18
+iphone 13 pro,220000,29
+iphone 12 pro max,240000,11
+iphone 12 pro,180000,10
+juicer and blender,20000,45
+toaster and microwave oven,15000,46
+automatic washing machine,25000,28
+dawlance refrigerator,37500,29
+haier split AC,75000,28

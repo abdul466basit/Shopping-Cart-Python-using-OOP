@@ -1,0 +1,14 @@
+mango,25,378
+apple,10,333
+banana,10,475
+orange,25,452
+strawberry,10,265
+grapes,15,212
+potato,10,475
+garlic,25,251
+tomato,15,478
+carrot,10,289
+onion,15,456
+cabbage,20,296
+garlic,25,189
+ginger,30,199
